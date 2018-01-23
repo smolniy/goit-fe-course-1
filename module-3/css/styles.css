@@ -16,7 +16,6 @@ body {
 /* -------------------------------- */
 
 .wrapper {
-    box-sizing: wrapper;
     width: 480px;  
     background-color: white;
     margin: 240px auto 240px auto; 
