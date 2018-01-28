@@ -1,0 +1,44 @@
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* BACKROUND */
+body {
+    background-image: url("../img/bac.png"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    
+}
+/* -------------------------------- */
+
+.wrapper {
+    width: 1024px;  
+    background-color: white;
+    margin: 230px auto 270px auto; 
+   
+}
+.iner {
+    width: 904px;
+    margin top: 115;
+    border-bottom: 1px;
+    border-bottom-color: #dedbdb;
+}
+
+.heading, .title {
+    text-transform: uppercase;
+    font-family: 'Pathway Gothic One';
+    color: #263555;
+    font-size: 25px;
+    
+}
+
+.imeg {
+    width: 405px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+}
